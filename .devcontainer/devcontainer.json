@@ -1,6 +1,6 @@
 {
   "customizations": {
-    "codespaces-blank": {
+    "codespaces": {
       "repositories": {
         "mcarolinasaf/AeminiumRuntime": {
           "permissions": {
